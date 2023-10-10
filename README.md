@@ -17,7 +17,7 @@ I’m a passionate coder with intermediate experience in Python, Web development
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,nextjs,flutter,dart,mysql,processing,postman,supabase,mongodb,postgres,r,nodejs,express,git,github,linux,arduino,spring,ros,c,cpp,py,js,html,css,vscode)]
+[![My Skills](https://skillicons.dev/icons?i=java,react,nextjs,flutter,dart,mysql,processing,postman,supabase,mongodb,postgres,r,nodejs,express,git,github,linux,arduino,spring,ros,c,cpp,py,js,ts,html,css,vscode)]
 
 ### Badges
 
