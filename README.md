@@ -10,6 +10,7 @@ I’m a passionate coder with intermediate experience in Python, Web development
 * ✉  You can contact me at [lokeshraj.d2025@gmail.com](mailto:lokeshraj.d2025@gmail.com)
 * 🧠  I'm learning Flutter and React
 * 🤝  I'm open to collaborating on interesting projects
+* 🧑‍💻  I love solving competetive problem
 
 ### Experience
 
