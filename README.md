@@ -4,7 +4,7 @@ Hi 👋 My name is Lokeshraj D
 ML Enthusiast 
 -----------------------------------
 
-I’m a passionate coder with intermediate experience in Python, Web development, and React. 
+I’m a passionate coder with intermediate experience in Python, Web development, CP and React. 
 
 * 🌍  I'm based in Chennai
 * ✉  You can contact me at [lokeshraj.d2025@gmail.com](mailto:lokeshraj.d2025@gmail.com)
@@ -31,4 +31,4 @@ I’m a passionate coder with intermediate experience in Python, Web development
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Lokeshraj-D" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lokeshraj-d-1b0001227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://aadhisblog.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Lokeshraj-D" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lokeshraj-d-1b0001227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
